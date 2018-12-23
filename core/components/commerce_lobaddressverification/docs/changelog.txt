@@ -1,0 +1,5 @@
+++ Lobaddressverification for Commerce 0.1.1-pl
+
+++ Released on 12/23/2018
+++++++++++++++++++++++++++
+- First release
